@@ -13,7 +13,8 @@ class CasillaTest {
 
 	@BeforeEach
 	void setUp() {
-		casilla = new Casilla();
+		casilla =
+                new Casilla();
 	}
 
 	@Test
